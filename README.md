@@ -23,3 +23,9 @@ A user should be able to:
 ## Planning
 
 ![Wireframe from planning](project_info/Wireframe.png)
+
+## Video
+
+
+https://user-images.githubusercontent.com/114088188/220866613-3249e93b-d347-4999-9bdf-adb4e306e6e8.mp4
+
